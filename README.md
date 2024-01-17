@@ -7,7 +7,7 @@
 ---
 
 <p align="center">
-  <b>🛠 Languages and Tools 🛠</b>
+  <b>🛠 Learning Languages and Tools 🛠</b>
 </p>
 
 <p align="center">
