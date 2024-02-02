@@ -22,13 +22,13 @@
 
 <br clear="both">
 
-<p align="center">- 📚 I'm currently learning  Microcomputer Systems and Networks.</p>
+<p align="center">- 📚 I'm currently learning microcomputer systems and networks </p>
 
 ###
 
 <br clear="both">
 
-<h3 align="center">🛠 Language and tools</h3>
+<h3 align="center">🛠 Learning Language and tools</h3>
 
 ###
 
