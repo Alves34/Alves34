@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
 ###
 
@@ -28,7 +28,7 @@
 
 <br clear="both">
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="center">🛠 Language and tools</h3>
 
 ###
 
@@ -52,11 +52,13 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="center">🔥   My Stats :</h3>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="right">
   <img src="https://streak-stats.demolab.com?user=Alves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
