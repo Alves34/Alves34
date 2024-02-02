@@ -4,34 +4,29 @@
   </a>
 </p>
 
-
-<img align="right" height="200" src="https://avatars.githubusercontent.com/u/146167968?v=4"  />
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=adrianalves070@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-</div>
+<img align="right" height="0" src=""  />
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Alves.Alves&"  />
-</div>
+<br clear="both">
+
+<h1 align="center">Hey         there              👋</h1>
 
 ###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
+<br clear="both">
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
+<br clear="both">
+
 <p align="center">- 📚 I'm currently learning  Microcomputer Systems and Networks.</p>
 
 ###
+
+<br clear="both">
 
 <h3 align="left">🛠 Language and tools</h3>
 
@@ -63,6 +58,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Alves&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=adrianalves070@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Alves/count.svg?"  />
 </div>
 
 ###
