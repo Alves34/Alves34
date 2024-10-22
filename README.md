@@ -16,14 +16,16 @@
 
 <br clear="both">
 
-<h3 align="center">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  SOBRE MÍ</h3>
 
 ###
 
 <br clear="both">
 
-<p align="center">- 📚 I'm currently learning Cross-platform application development </p>
-
+* 🌍  Soy de España
+* 🖥️  Mi web de portfolio es [esta](WORKINGONN)
+* 🧠  Estoy estudiando DAM donde aprendo a programar en Java , y python ademaás de otro tipo de cosas nuevas como SQL , lenguajes de marcas...etc
+* ⚡  Me encanta sistemas y redes  👩‍💻
 ###
 
 
