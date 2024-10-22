@@ -10,15 +10,11 @@
 
 <br clear="both">
 
-<h1 align="center">Hey         there              👋</h1>
+¡Hola soy Adrián ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)!
+=============================================================================================================================
 
-###
-
-<br clear="both">
-
-<h3 align="center">👩‍💻  SOBRE MÍ</h3>
-
-###
+Programador de aplicaciones y robots
+---------------------------------
 
 <br clear="both">
 
